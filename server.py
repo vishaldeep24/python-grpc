@@ -9,7 +9,7 @@ class Details(detailservice_pb2_grpc.DetailServiceServicer):
         person = detailservice_pb2.Person()
         person.name = "Vishal Deep"
         person.id = request.id
-        person.email = "vdeep@ext.uber.com"
+        person.email = "vishaldeep2489@gmail.com"
         phone = person.phones.add()
         phone.type = detailservice_pb2.Person.MOBILE
         phone.number = "8971800406"
