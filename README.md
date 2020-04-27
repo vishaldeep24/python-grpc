@@ -1,4 +1,4 @@
-# python-grpc
+# Python-gRPC
 Example of python-grpc
 
 # Creating python virtual environment
