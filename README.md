@@ -1,7 +1,7 @@
 # Python-gRPC
 Example of python-grpc
 
-###### Creating python virtual environment
+## Creating python virtual environment
 python3 -m venv env
 
 ###### Activate environment
